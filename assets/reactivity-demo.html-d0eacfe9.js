@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as c,c as a,a as n}from"./app-3b99abcb.js";const r={};function _(i,s){const e=o("ReactivityDemo");return c(),a("div",null,[n(e)])}const l=t(r,[["render",_],["__file","reactivity-demo.html.vue"]]);export{l as default};
